@@ -1,0 +1,4 @@
+name:madhulatha,prasanthi,gnaneswari
+suc:2367250283,2367250134,2367250172
+college:aditya degree womens college
+branch:BSC computer science
